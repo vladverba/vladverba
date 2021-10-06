@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vladverba
 - 👀 I’m interested in building tech products.
 - 🌱 I’m currently learning full stack dev.
-- 💞️ I’m looking to collaborate on a SaaS project.
+- 😁 I’m looking to collaborate on a SaaS project.
 - 📫 How to reach me: me@vladverba.com
