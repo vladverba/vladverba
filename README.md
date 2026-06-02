@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @vladverba
-- 👨‍💻 Product manager at Front Office Sports
+- 👨‍💻 9-5 product manager
+- 👽 5-9 tinkerer
 - 🛫 Built and sold globalentryalerts.com
 - 👷‍♂️ Currently building thestartupsphere.com
-- 🤖 Interested in product, data and automation
+- 🤖 Interested in product, data, and automation
